@@ -48,7 +48,7 @@ export default function HomePage() {
   return (
     <div className="space-y-8">
       <div className="space-y-4">
-        <h1 className="text-3xl font-bold">欢迎回来，张三</h1>
+        <h1 className="text-3xl font-bold">欢迎回来，Laurance</h1>
         <p className="text-muted-foreground">
           今天是继续保持健康生活的好日子。查看您的每日概览并继续前进！
         </p>
